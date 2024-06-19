@@ -25,3 +25,5 @@ _—your friendly neighborhood code enthusiast known for blending creativity wit
 [![Email: tjmaureadhanniela](https://img.shields.io/badge/Via%20Email-white?style=flat-square&logo=gmail)](mailto:tjmaureadhanniela@gmail.com)
 [![LinkedIn: tjmaureadhanniela](https://img.shields.io/badge/Let's%20Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tj-maurea-dhanniela-ojerio-6480b2205/)
 [![Follow me on GitHub](https://img.shields.io/github/followers/dhanniela?label=Follow&style=social)](https://github.com/dhanniela)
+
+_Feel free to explore my repositories and connect with me for collaborations or discussions on coding practices and software development!_
